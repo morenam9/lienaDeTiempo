@@ -129,3 +129,8 @@ h1 span {
     }
 }
 
+/*Footer*/
+
+hr {
+    margin-top: -50px;
+}
